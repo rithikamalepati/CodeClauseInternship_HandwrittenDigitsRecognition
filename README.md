@@ -1,5 +1,4 @@
 Aim -
-
 Recognize handwritten digits.
 
 Description-
